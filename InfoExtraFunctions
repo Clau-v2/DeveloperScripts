@@ -1,0 +1,33 @@
+    
+    ['getclosestplayer'] =  'Arguments part, range',
+    
+    ['getplayerbystring'] = 'arguments string if not found returns nil',
+    
+    ['getpartpos'] = 'arguments part returns partposition',
+    
+    ['setws'] = 'arguments number, normalSpeed returns nothing',
+    
+    ['setjp'] = 'arguments number, normalJumpPower returns nothing',
+    
+    ['scangame'] = 'arguments scanName if not found returns nil',
+    
+    ['delfunctionscript'] = 'arguments localscript, functionname returns nothing stops a function in a localscript',
+    
+    ['searchscript'] = 'arguments scriptpath returns table',
+    
+    ['countparts'] = 'arguments nothing returns num',
+    
+    ['getclosestplayertomouse'] = 'arguments nothing returns player not character',
+    
+    ['getplayer'] = 'arguments nothing returns localplayer',
+    
+    ['getcharacter'] = 'arguments nohing returns players character',
+    
+    ['fireproxi'] = 'arguments proximityprompt, range returns nothing fires the selected proximityprompt',
+    
+    ['deletechildren'] = 'arguments instance returns nothing deletes all children in an instance',
+    
+    ['antikick'] = 'arguments nothing returns nothing stops localscripts kicking the local player',
+    
+    ['searchinstance'] = 'arguments instance returns table searches the instance and puts it in a table'
+    
