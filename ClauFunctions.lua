@@ -35,7 +35,6 @@
 
 --Metatables {Index Metamethod}
 local metatable = {}
-metatable.__index = metatable
 
 function metatable.index(targ1, targ2, rval)
 
@@ -50,4 +49,7 @@ local m
 end
 
 --Metatables {NameCall Metamethod coming soon}
+
+
+return metatable
 
