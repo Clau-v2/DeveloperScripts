@@ -23,7 +23,7 @@
 
     how to use?
 
-    local metatable = loadstring(game:HttpGet('https://github.com/Clau-v2/DeveloperScripts/edit/main/metatableindex.lua/raw')
+    local metatable = loadstring(game:HttpGet('https://raw.githubusercontent.com/Clau-v2/DeveloperScripts/main/ClauFunctions.lua')
 
     metatable.index('humanoid', 'walkspeed', 16)
 
