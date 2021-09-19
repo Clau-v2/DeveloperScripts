@@ -27,6 +27,11 @@
 
     metatable.index('humanoid', 'walkspeed', 16)
 
+
+
+
+
+
 ]]
 
 
